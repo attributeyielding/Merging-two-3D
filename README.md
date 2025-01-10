@@ -120,7 +120,7 @@ mono MergeObjFiles.exe
 ```
 
 4. The merged ```.obj``` file will be saved as ```merged_object.obj```.
-5. 
+
 
 # Let me know if you need further assistance! 😊
 
